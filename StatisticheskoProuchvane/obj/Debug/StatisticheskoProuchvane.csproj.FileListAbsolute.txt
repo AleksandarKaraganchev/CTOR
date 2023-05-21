@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\bin\Debug\StatisticheskoProuchvane.exe.config
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\bin\Debug\StatisticheskoProuchvane.exe
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\bin\Debug\StatisticheskoProuchvane.pdb
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\obj\Debug\StatisticheskoProuchvane.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\obj\Debug\StatisticheskoProuchvane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\obj\Debug\StatisticheskoProuchvane.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\obj\Debug\StatisticheskoProuchvane.exe
+C:\Users\Admin\Desktop\CTOR\StatisticheskoProuchvane\obj\Debug\StatisticheskoProuchvane.pdb

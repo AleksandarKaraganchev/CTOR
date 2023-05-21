@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\bin\Debug\DefiniraneNaKlasBankovaSmetka.exe.config
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\bin\Debug\DefiniraneNaKlasBankovaSmetka.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\bin\Debug\DefiniraneNaKlasBankovaSmetka.pdb
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\obj\Debug\DefiniraneNaKlasBankovaSmetka.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\obj\Debug\DefiniraneNaKlasBankovaSmetka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\obj\Debug\DefiniraneNaKlasBankovaSmetka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\obj\Debug\DefiniraneNaKlasBankovaSmetka.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasBankovaSmetka\obj\Debug\DefiniraneNaKlasBankovaSmetka.pdb

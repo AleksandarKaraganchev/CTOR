@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\bin\Debug\RazlikaVDniMejdu2Dati.exe.config
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\bin\Debug\RazlikaVDniMejdu2Dati.exe
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\bin\Debug\RazlikaVDniMejdu2Dati.pdb
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\obj\Debug\RazlikaVDniMejdu2Dati.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\obj\Debug\RazlikaVDniMejdu2Dati.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\obj\Debug\RazlikaVDniMejdu2Dati.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\obj\Debug\RazlikaVDniMejdu2Dati.exe
+C:\Users\Admin\Desktop\CTOR\RazlikaVDniMejdu2Dati\obj\Debug\RazlikaVDniMejdu2Dati.pdb

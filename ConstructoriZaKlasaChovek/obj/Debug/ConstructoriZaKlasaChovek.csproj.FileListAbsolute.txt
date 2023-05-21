@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\ConstructoriZaKlasaChovek.exe.config
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\ConstructoriZaKlasaChovek.exe
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\ConstructoriZaKlasaChovek.pdb
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\DefiniraneNaKlasChovek.exe
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\DefiniraneNaKlasChovek.pdb
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\bin\Debug\DefiniraneNaKlasChovek.exe.config
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.csproj.CopyComplete
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.exe
+C:\Users\Admin\Desktop\CTOR\ConstructoriZaKlasaChovek\obj\Debug\ConstructoriZaKlasaChovek.pdb

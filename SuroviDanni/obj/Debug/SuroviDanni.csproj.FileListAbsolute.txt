@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\bin\Debug\SuroviDanni.exe.config
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\bin\Debug\SuroviDanni.exe
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\bin\Debug\SuroviDanni.pdb
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\obj\Debug\SuroviDanni.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\obj\Debug\SuroviDanni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\obj\Debug\SuroviDanni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\obj\Debug\SuroviDanni.exe
+C:\Users\Admin\Desktop\CTOR\SuroviDanni\obj\Debug\SuroviDanni.pdb

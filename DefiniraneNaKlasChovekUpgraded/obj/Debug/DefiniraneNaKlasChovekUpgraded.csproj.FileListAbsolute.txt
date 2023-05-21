@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasChovekUpgraded.exe.config
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasChovekUpgraded.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasChovekUpgraded.pdb
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasBankovaSmetka.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasBankovaSmetka.pdb
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\bin\Debug\DefiniraneNaKlasBankovaSmetka.exe.config
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.csproj.CopyComplete
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovekUpgraded\obj\Debug\DefiniraneNaKlasChovekUpgraded.pdb

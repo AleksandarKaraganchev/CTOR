@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\bin\Debug\DobavqneNaMetodiKumBankAccount.exe.config
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\bin\Debug\DobavqneNaMetodiKumBankAccount.exe
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\bin\Debug\DobavqneNaMetodiKumBankAccount.pdb
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\obj\Debug\DobavqneNaMetodiKumBankAccount.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\obj\Debug\DobavqneNaMetodiKumBankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\obj\Debug\DobavqneNaMetodiKumBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\obj\Debug\DobavqneNaMetodiKumBankAccount.exe
+C:\Users\Admin\Desktop\CTOR\DobavqneNaMetodiKumBankAccount\obj\Debug\DobavqneNaMetodiKumBankAccount.pdb

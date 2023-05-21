@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.exe.config
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.pdb
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.exe
+C:\Users\Admin\Desktop\CTOR\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.pdb

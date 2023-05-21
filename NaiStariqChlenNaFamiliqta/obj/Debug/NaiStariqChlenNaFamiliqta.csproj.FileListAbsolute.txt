@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\bin\Debug\NaiStariqChlenNaFamiliqta.exe.config
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\bin\Debug\NaiStariqChlenNaFamiliqta.exe
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\bin\Debug\NaiStariqChlenNaFamiliqta.pdb
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\obj\Debug\NaiStariqChlenNaFamiliqta.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\obj\Debug\NaiStariqChlenNaFamiliqta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\obj\Debug\NaiStariqChlenNaFamiliqta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\obj\Debug\NaiStariqChlenNaFamiliqta.exe
+C:\Users\Admin\Desktop\CTOR\NaiStariqChlenNaFamiliqta\obj\Debug\NaiStariqChlenNaFamiliqta.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\bin\Debug\PutuvaniqSKoli.exe.config
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\bin\Debug\PutuvaniqSKoli.exe
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\bin\Debug\PutuvaniqSKoli.pdb
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\obj\Debug\PutuvaniqSKoli.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\obj\Debug\PutuvaniqSKoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\obj\Debug\PutuvaniqSKoli.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\obj\Debug\PutuvaniqSKoli.exe
+C:\Users\Admin\Desktop\CTOR\PutuvaniqSKoli\obj\Debug\PutuvaniqSKoli.pdb

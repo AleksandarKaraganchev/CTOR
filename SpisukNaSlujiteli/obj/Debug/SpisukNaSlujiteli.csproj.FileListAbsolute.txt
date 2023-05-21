@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\bin\Debug\SpisukNaSlujiteli.exe.config
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\bin\Debug\SpisukNaSlujiteli.exe
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\bin\Debug\SpisukNaSlujiteli.pdb
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\obj\Debug\SpisukNaSlujiteli.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\obj\Debug\SpisukNaSlujiteli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\obj\Debug\SpisukNaSlujiteli.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\obj\Debug\SpisukNaSlujiteli.exe
+C:\Users\Admin\Desktop\CTOR\SpisukNaSlujiteli\obj\Debug\SpisukNaSlujiteli.pdb
